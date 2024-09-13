@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "datapackportals",
-  "version": "1.2.3-1.20",
+  "version": "1.2.3-1.21",
   "name": "Datapack Portals",
   "description": "Create custom portals using Datapacks!",
   "authors": [
@@ -22,6 +22,6 @@
   "depends": {
     "fabricloader": ">=0.12.5",
     "fabric": "*",
-    "java": ">=17"
+    "java": ">=21"
   }
 }

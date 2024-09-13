@@ -1,11 +1,8 @@
 package net.kyrptonaught.datapackportals;
 
 import net.fabricmc.api.ModInitializer;
-import net.fabricmc.fabric.api.networking.v1.ServerPlayConnectionEvents;
 import net.fabricmc.fabric.api.resource.ResourceManagerHelper;
-import net.kyrptonaught.customportalapi.CustomPortalApiRegistry;
 import net.kyrptonaught.customportalapi.PerWorldPortals;
-import net.kyrptonaught.customportalapi.networking.PortalRegistrySync;
 import net.kyrptonaught.customportalapi.util.PortalLink;
 import net.kyrptonaught.datapackportals.portalTypes.CMDPortal;
 import net.kyrptonaught.datapackportals.portalTypes.DefaultPortal;
