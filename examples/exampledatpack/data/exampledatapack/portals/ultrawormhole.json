@@ -1,0 +1,10 @@
+{
+  "block": "minecraft:barrier",
+  "dim": "cobblemon_ultrabeasts:",
+  "ignitionType": "ITEM",
+  "ignitionSource": "minecraft:stick",
+  "r": 255,
+  "g": 255,
+  "b": 205
+}
+
